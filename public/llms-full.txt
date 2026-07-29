@@ -2,13 +2,13 @@
 
 תמשיך לבנות לי את האתר
 
-Source: https://-d97284ad.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו עולם של מוצרים טבעיים ידידותיים לסביבה — המוצרים של תומר
 
-URL: https://-d97284ad.zappy5.app
+URL: https://example.com
 Description: מחפשים מוצרים טבעיים ידידותיים לסביבה ומתנות מקוריות משוק מקומי? המוצרים של תומר מביאים אליכם את המיטב מהשוק האורגני בישראל. כנסו עכשיו ותתחילו לגלות!
 
 גלו עולם של מוצרים טבעיים ידידותיים לסביבה — המוצרים של תומר
@@ -493,7 +493,7 @@ Description: מחפשים מוצרים טבעיים ידידותיים לסבי�
 
 ## המסע הירוק שמאחורי מתנות מקוריות משוק מקומי — המוצרים של תומר
 
-URL: https://-d97284ad.zappy5.app/story
+URL: https://example.com/story
 Description: רוצים לדעת איך הפכנו תשוקה למוצרים טבעיים ידידותיים לסביבה למיזם של ממש? קראו את הסיפור שלנו וגלו את האנשים מאחורי המתנות הכי מקוריות מהשוק. הצטרפו למסע!
 
 המסע הירוק שמאחורי מתנות מקוריות משוק מקומי — המוצרים של תומר
@@ -886,7 +886,7 @@ Description: רוצים לדעת איך הפכנו תשוקה למוצרים ט�
 
 ## רעיונות מנצחים למתנות מקוריות משוק מקומי — המוצרים של תומר
 
-URL: https://-d97284ad.zappy5.app/gift-ideas
+URL: https://example.com/gift-ideas
 Description: נתקעתם בלי רעיון למתנה? קבלו השראה מרעיונות למתנות מקוריות משוק מקומי, כולן מוצרים טבעיים ידידותיים לסביבה שיגרמו לכל אחד לחייך. לחצו לקטגוריות שוות במיוחד!
 
 רעיונות מנצחים למתנות מקוריות משוק מקומי — המוצרים של תומר
@@ -1299,7 +1299,7 @@ Description: נתקעתם בלי רעיון למתנה? קבלו השראה מר
 
 ## כל מה שרציתם לשאול על מוצרים טבעיים ידידותיים לסביבה — המוצרים של תומר
 
-URL: https://-d97284ad.zappy5.app/faq
+URL: https://example.com/faq
 Description: יש לכם שאלות על מוצרים טבעיים ידידותיים לסביבה או מתנות מהשוק המקומי? ריכזנו עבורכם תשובות לשאלות נפוצות שיעשו לכם סדר. היכנסו לקבל את כל המידע!
 
 כל מה שרציתם לשאול על מוצרים טבעיים ידידותיים לסביבה — המוצרים של תומר
@@ -1677,7 +1677,7 @@ Description: יש לכם שאלות על מוצרים טבעיים ידידות�
 
 ## דברו איתנו על המתנות המקוריות הכי טבעיות — המוצרים של תומר
 
-URL: https://-d97284ad.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים לשמוע עוד על מוצרים טבעיים ידידותיים לסביבה או להזמין מתנה מקורית משוק מקומי? צרו קשר עוד היום ונחזור אליכם עם כל הפרטים וההמלצות הכי שוות!
 
 דברו איתנו על המתנות המקוריות הכי טבעיות — המוצרים של תומר
@@ -2072,7 +2072,7 @@ Description: רוצים לשמוע עוד על מוצרים טבעיים ידי�
 
 ## מוצרים
 
-URL: https://-d97284ad.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - המוצרים של תומר
 
 מוצרים - המוצרים של תומר
@@ -2477,7 +2477,7 @@ Description: המוצרים שלנו - המוצרים של תומר
 
 ## עגלת קניות
 
-URL: https://-d97284ad.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - המוצרים של תומר
@@ -2724,7 +2724,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-d97284ad.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - המוצרים של תומר
@@ -3157,7 +3157,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-d97284ad.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - המוצרים של תומר
@@ -3411,7 +3411,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-d97284ad.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - המוצרים של תומר
@@ -3820,7 +3820,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-d97284ad.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - המוצרים של תומר
@@ -4091,7 +4091,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-d97284ad.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - המוצרים של תומר
@@ -4391,7 +4391,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-d97284ad.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - המוצרים של תומר
 
 פרטי המוצר - המוצרים של תומר
@@ -4640,7 +4640,7 @@ Description: פרטי המוצר - המוצרים של תומר
 
 ## מוצרים
 
-URL: https://-d97284ad.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - המוצרים של תומר
 
 מוצרים - המוצרים של תומר
@@ -4913,7 +4913,7 @@ Description: מוצרים - המוצרים של תומר
 
 ## מדיניות פרטיות
 
-URL: https://-d97284ad.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5188,7 +5188,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-d97284ad.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5472,7 +5472,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-d97284ad.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5775,7 +5775,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - המוצרים של תומר
 
-URL: https://-d97284ad.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: המוצרים של תומר - תודה - המוצרים של תומר
 
 תודה - המוצרים של תומר

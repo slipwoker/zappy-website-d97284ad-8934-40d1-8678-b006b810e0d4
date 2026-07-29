@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-d97284ad.zappy5.app
+https://example.com
 מחפשים מוצרים טבעיים ידידותיים לסביבה ומתנות מקוריות משוק מקומי? המוצרים של תומר מביאים אליכם את המיטב מהשוק האורגני בישראל. כנסו עכשיו ותתחילו לגלות!
 
 ### הסיפור שלנו
-https://-d97284ad.zappy5.app/story
+https://example.com/story
 רוצים לדעת איך הפכנו תשוקה למוצרים טבעיים ידידותיים לסביבה למיזם של ממש? קראו את הסיפור שלנו וגלו את האנשים מאחורי המתנות הכי מקוריות מהשוק. הצטרפו למסע!
 
 ### רעיונות למתנות
-https://-d97284ad.zappy5.app/gift-ideas
+https://example.com/gift-ideas
 נתקעתם בלי רעיון למתנה? קבלו השראה מרעיונות למתנות מקוריות משוק מקומי, כולן מוצרים טבעיים ידידותיים לסביבה שיגרמו לכל אחד לחייך. לחצו לקטגוריות שוות במיוחד!
 
 ### שאלות נפוצות
-https://-d97284ad.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על מוצרים טבעיים ידידותיים לסביבה או מתנות מהשוק המקומי? ריכזנו עבורכם תשובות לשאלות נפוצות שיעשו לכם סדר. היכנסו לקבל את כל המידע!
 
 ### צור קשר
-https://-d97284ad.zappy5.app/contact
+https://example.com/contact
 רוצים לשמוע עוד על מוצרים טבעיים ידידותיים לסביבה או להזמין מתנה מקורית משוק מקומי? צרו קשר עוד היום ונחזור אליכם עם כל הפרטים וההמלצות הכי שוות!
 
 ### Products
-https://-d97284ad.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - המוצרים של תומר
 
 ### Cart
-https://-d97284ad.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-d97284ad.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-d97284ad.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-d97284ad.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-d97284ad.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-d97284ad.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - המוצרים של תומר
 
 ### Category
-https://-d97284ad.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - המוצרים של תומר
 
 ### תודה - המוצרים של תומר
-https://-d97284ad.zappy5.app/thank-you
+https://example.com/thank-you
 המוצרים של תומר - תודה - המוצרים של תומר
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d97284ad.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d97284ad.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d97284ad.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-d97284ad.zappy5.app/sitemap.xml
-- Robots: https://-d97284ad.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-d97284ad.zappy5.app/llms-full.txt
-- Products (JSON): https://-d97284ad.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-d97284ad.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
